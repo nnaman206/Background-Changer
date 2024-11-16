@@ -17,10 +17,12 @@ I’ve just started my journey of learning ReactJS, and this simple Background C
 
 
 🎯 What's Next?
+
 This is just the beginning! 🚀
 I have many ideas and plans to extend this project and build more exciting things as I continue learning ReactJS. Stay tuned for more updates, features, and projects!
 
 💡 Lessons Learned
+
 How to use React's useState for state management.
 Implementing styling with TailwindCSS.
 Setting up a project with Vite for fast development.
