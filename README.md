@@ -14,6 +14,17 @@ I’ve just started my journey of learning ReactJS, and this simple Background C
 - **Vite**: A fast and modern build tool for front-end projects.
 - **TailwindCSS**: A utility-first CSS framework for styling.
 
+
+
+🎯 What's Next?
+This is just the beginning! 🚀
+I have many ideas and plans to extend this project and build more exciting things as I continue learning ReactJS. Stay tuned for more updates, features, and projects!
+
+💡 Lessons Learned
+How to use React's useState for state management.
+Implementing styling with TailwindCSS.
+Setting up a project with Vite for fast development.
+
  **Clone the Repository**:
    ```bash
    git clone https://github.com/nnaman206/Background-Changer.git
@@ -32,11 +43,3 @@ npm run dev
 
 
 
-🎯 What's Next?
-This is just the beginning! 🚀
-I have many ideas and plans to extend this project and build more exciting things as I continue learning ReactJS. Stay tuned for more updates, features, and projects!
-
-💡 Lessons Learned
-How to use React's useState for state management.
-Implementing styling with TailwindCSS.
-Setting up a project with Vite for fast development.
